@@ -12,3 +12,4 @@ x().then(function(){
     console.log('a');
 })
 commit
+git ScopedCredential.helper
